@@ -88,3 +88,4 @@ Valid locations to create a `Languages` or a `Themes` directory:
 - In `%localappdata%\RetroBar`
 
 Themes use the XAML `ResourceDictionary` format. [View the included example themes](https://github.com/dremin/RetroBar/tree/master/RetroBar/Themes) to get started.
+
